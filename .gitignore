@@ -68,6 +68,7 @@ pip-delete-this-directory.txt
 *.log
 
 # При использовании PyCharm #
+.idea/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
